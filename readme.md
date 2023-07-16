@@ -8,6 +8,7 @@ To test HTTP requests, head to:
 
 https://express-blog-post-api-server.onrender.com/
 
+Routes: <br>
 /databaseDump <br>
 /users <br>
 /roles <br>
